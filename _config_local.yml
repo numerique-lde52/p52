@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 lang: fr
 locale: fr_FR
 
-baseurl: "/p52" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://passerelle52.fr"
 logo: /img/logo-la-passerelle.png
 

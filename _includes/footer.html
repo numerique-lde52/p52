@@ -5,8 +5,8 @@
 
         {%- if site.instagram_username -%}
         <p>
-          <a class="btn btn-outline-primary" href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
-            <img src="/img/social/instagram.svg" alt="Instagram" width="40" height="40">
+          <a class="btn btn-secondary" href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
+            <img src="{{ "/img/social/instagram.svg" | relative_url }}" alt="Instagram" width="40" height="40">
             Instagram
           </a>
         </p>
@@ -14,8 +14,8 @@
 
         {%- if site.facebook_username -%}
         <p>
-          <a class="btn btn-outline-primary" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
-            <img src="/img/social/facebook.svg" alt="Bootstrap" width="40" height="40">
+          <a class="btn btn-secondary" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
+            <img src="{{ "/img/social/facebook.svg" | relative_url }}" alt="Bootstrap" width="40" height="40">
             Facebook
           </a>
         </p>
@@ -25,7 +25,7 @@
 
     </div>
     <div class="col">
-      <a href="/l-association/" class="btn btn-secondary btn-lg">
+      <a href="{{ "/l-association/" | relative_url }}" class="btn btn-secondary btn-lg">
       Rejoindre l’association
       </a>
     </div>
