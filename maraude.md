@@ -12,7 +12,7 @@ order: 3
 des personnes sans domicile</p>
 </div>
 <div class="col-6 p-3">
-<img src="/img/cypripedium-calceolus-400X400.jpg" />
+<img src="{{ "/img/cypripedium-calceolus-400X400.jpg" | relative_url }}" />
 </div>
 </div>
 </div>

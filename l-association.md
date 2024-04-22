@@ -13,7 +13,7 @@ order: 1
 <p class="fs-3"><a href="#" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
 </div>
 <div class="col-6 p-3">
-<img src="/img/cypripedium-calceolus-400X400.jpg" />
+<img src="{{ "/img/cypripedium-calceolus-400X400.jpg" | relative_url }}" />
 </div>
 </div>
 </div>

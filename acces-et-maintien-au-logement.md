@@ -13,7 +13,7 @@ order: 4
 qui leur soit adapté et les aider à s'y maintenir</p>
 </div>
 <div class="col-6 p-3">
-<img src="/img/cypripedium-calceolus-400X400.jpg" />
+<img src="{{ "/img/cypripedium-calceolus-400X400.jpg" | relative_url }}" />
 </div>
 </div>
 </div>

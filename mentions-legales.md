@@ -3,7 +3,7 @@ title: Mentions légales
 permalink: /mentions-legales/
 ---
 
-Mentions légalesadmin79642022-03-09T11:26:32+01:00
+## Mentions légales
 
 Éditeur du Site :
 
