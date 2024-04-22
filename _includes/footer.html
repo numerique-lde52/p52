@@ -1,0 +1,47 @@
+<footer class="container text-center mt-5 border-top border-warning border-4">
+  <div class="row p-5">
+    <div class="col">
+      <p>Suivez-nous sur :</p>
+
+        {%- if site.instagram_username -%}
+        <p>
+          <a class="btn btn-outline-primary" href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
+            <img src="/img/social/instagram.svg" alt="Instagram" width="40" height="40">
+            Instagram
+          </a>
+        </p>
+        {%- endif -%}
+
+        {%- if site.facebook_username -%}
+        <p>
+          <a class="btn btn-outline-primary" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
+            <img src="/img/social/facebook.svg" alt="Bootstrap" width="40" height="40">
+            Facebook
+          </a>
+        </p>
+        {%- endif -%}
+
+
+
+    </div>
+    <div class="col">
+      <a href="/l-association/" class="btn btn-secondary btn-lg">
+      Rejoindre l’association
+      </a>
+    </div>
+    <div class="col">
+      <p class="fw-bold">
+      La Passerelle<br>
+      18 rue Félix Bablon<br>
+      52000 Chaumont</P>
+      <p>03.25.32.65.42<br>
+      association@passerelle52.fr<br>
+      Du lundi au vendredi<br>
+      de 8H30 à 17H  
+      </p>
+    </div>
+  </div>
+  <p>Copyright 2022 La Passerelle | Mentions légales |</p>
+</footer>
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> -->
+  
