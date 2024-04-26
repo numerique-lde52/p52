@@ -1,15 +1,8 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 :root {
-
   --bs-body-font-size: 1.2rem;	
   --bs-nav-link-font-size: 1.2rem;
- 
   --bs-primary-rgb: 241, 231, 0;
-
   --bs-secondary-rgb: 251, 180, 49;
-
 }
 
 
