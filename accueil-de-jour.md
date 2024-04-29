@@ -7,32 +7,55 @@ order: 2
 
 <div class="rounded-1 shadow bg-secondary">
 <div class="row row-cols-2">
-<div class="col-6 p-5">
+<div class="col-8 p-5">
 <h1 class="fw-bold text-white">L’accueil de jour</h1>
 <p class="fs-3">Accueillir, soutenir et accéder<br>
 à des services de 1ères nécessités</p>
 </div>
-<div class="col-6 p-3">
-<img src="{{ "/img/cypripedium-calceolus-400X400.jpg" | relative_url }}" />
+<div class="col-4 p-5 text-end">
+<img src="{{ "/img/accueil-jour.png" | relative_url }}" class="img-fluid" />
 </div>
 </div>
 </div>
+
+<div class="row row-cols-2">
+<div class="col-4 p-5">
+<img src="{{ "/img/accueil-jour-1.jpg" | relative_url }}" class="img-fluid" />
+</div>
+
+<div class="col-8 p-5">
 
 ## C’est quoi ?
 
 L’accueil de jour est un lieu d’échange et d’écoute entre personnes accueillies, bénévoles, intervenants sociaux. Il peut s’y dérouler des animations et un accompagnement socio-éducatif est proposé au public accueilli.
 Le public peut bénéficier de services de première nécessité :
 
-  - accès à l’hygiène : dépannage vestimentaire, prise de douche, lavage du linge, mise à disposition de consigne pour stocker ces affaires.
-  - accès à l’alimentation : coin cuisine, dépannage alimentaire.
-  - accès aux droits : mise à disposition d’un poste informatique et accompagnement dans la réalisation des démarches administratives en ligne.
-  - accès aux soins avec la présence d’une aide soignante (mardi matin) et d’une psycho-thérapeute (jeudi toute la journée)
+  - **accès à l’hygiène** : dépannage vestimentaire, prise de douche, lavage du linge, mise à disposition de consigne pour stocker ces affaires.
+  - **accès à l’alimentation** : coin cuisine, dépannage alimentaire.
+  - **accès aux droits** : mise à disposition d’un poste informatique et accompagnement dans la réalisation des démarches administratives en ligne.
+  - **accès aux soins** avec la présence d’une aide soignante (mardi matin) et d’une psycho-thérapeute (jeudi toute la journée)
 
-Mais aussi, c’est un lieu :
+</div>
+</div>
 
-  - de rencontres sociales et d’informations : entre pairs, par le biais de l’équipe de travailleurs sociaux et les bénévoles.
-  - de participation à des actions collectives d’expression personnelle, de convivialité, d’accès à la culture, à la vie de l’association…
-  - d’accueil personnalisé qui tient compte de la situation de la personne, de ses besoins et attentes. Les personnes bénéficient du temps nécessaire pour exprimer une demande, ou un projet de vie, à travers la construction d’une relation de confiance. Elles sont informées de leurs droits, orientées et accompagnées individuellement à travers leurs démarches de soins ou administratives vers les partenaires existants.
+<div class="row row-cols-2">
+
+<div class="col-8 p-5">
+
+## Mais aussi, c’est un lieu :
+
+  - **de rencontres sociales et d’informations** : entre pairs, par le biais de l’équipe de travailleurs sociaux et les bénévoles.
+  - **de participation à des actions collectives** d’expression personnelle, de convivialité, d’accès à la culture, à la vie de l’association…
+  - **d’accueil personnalisé** qui tient compte de la situation de la personne, de ses besoins et attentes. Les personnes bénéficient du temps nécessaire pour exprimer une demande, ou un projet de vie, à travers la construction d’une relation de confiance. Elles sont informées de leurs droits, orientées et accompagnées individuellement à travers leurs démarches de soins ou administratives vers les partenaires existants.
+</div>
+
+<div class="col-4 p-5">
+<img src="{{ "/img/accueil-jour-2.jpg" | relative_url }}" class="img-fluid" />
+</div>
+
+</div>
+
+
 
 
 ## Témoignages
@@ -73,6 +96,12 @@ Témoignages de Michèle, accueillie
 </figcaption>
 </figure>
 
+
+<div class="row g-4 p-3 my-5">
+
+<div class="col">
+<div class="p-3 bg-secondary rounded-3 shadow">
+
 ## Quand ?
 
 du lundi au vendredi
@@ -81,11 +110,28 @@ de 8h30 à 12h en accès libre
 
 et de 13h30 à 17h sur rendez-vous
 
+</div>  
+</div> 
+
+<div class="col">
+<div class="p-3 rounded-3 shadow">
+
 ## Les objectifs ?
 
 C’est un lieu d’accueil, d’aide, d’échange et de proximité.
 Sa mission est d’accueillir sans discrimination et de permettre à chaque accueilli de rompre son isolement et de trouver une place dans la société.
 
+</div>  
+</div>  
+
+<div class="col">
+<div class="p-3 bg-primary rounded-3 shadow">
+
 ## Le public cible ?
 
 Toute personne majeure en situation précaire et rencontrant des difficultés liées à l’hébergement/logement.
+
+</div>  
+</div>  
+
+</div>
