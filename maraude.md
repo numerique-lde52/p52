@@ -20,7 +20,7 @@ des personnes sans domicile</p>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/maraude-1.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/maraude-1.jpg" | relative_url }}" class="img-fluid" alt="équipe de Maraude" />
 </div>
 
 <div class="col-8 p-5">

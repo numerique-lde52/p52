@@ -13,7 +13,7 @@ order: 4
 qui leur soit adapté et les aider à s'y maintenir</p>
 </div>
 <div class="col-4 px-3">
-<img src="{{ "/img/logement.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/logement.png" | relative_url }}" class="img-fluid" alt="logement" />
 </div>
 </div>
 </div>
@@ -21,7 +21,7 @@ qui leur soit adapté et les aider à s'y maintenir</p>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/avdl.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/avdl.jpg" | relative_url }}" class="img-fluid" alt="Accès ou maintien dans le logement" />
 </div>
 
 <div class="col-8 p-5">
@@ -109,7 +109,7 @@ Toutes les personnes accompagnées par l’association.
 
 </div>
 <div class="col-4 p-5">
-<img src="{{ "/img/quartier.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/quartier.jpg" | relative_url }}" class="img-fluid" alt="photos d'activités dans les quartiers" />
 </div>
 
 </div>
@@ -117,7 +117,7 @@ Toutes les personnes accompagnées par l’association.
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/maraude-1.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/appart-jeune.jpg" | relative_url }}" class="img-fluid" alt="photos d'appartements" />
 </div>
 
 <div class="col-8 p-5">

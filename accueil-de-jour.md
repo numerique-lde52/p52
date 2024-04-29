@@ -20,7 +20,7 @@ order: 2
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/accueil-jour-1.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/accueil-jour-1.jpg" | relative_url }}" class="img-fluid" alt="accueil de jour" />
 </div>
 
 <div class="col-8 p-5">
@@ -50,7 +50,7 @@ Le public peut bénéficier de services de première nécessité :
 </div>
 
 <div class="col-4 p-5">
-<img src="{{ "/img/accueil-jour-2.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/accueil-jour-2.jpg" | relative_url }}" class="img-fluid" alt="photos d'activités" />
 </div>
 
 </div>

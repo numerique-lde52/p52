@@ -15,7 +15,7 @@ d’hébergement ou de de logement</p>
 <p class="fs-3"><a href="{{ "/doc/DossierdemandeSIAOHteMarneoctobre2018.pdf" | relative_url }}" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a></p>
 </div>
 <div class="col-4 p-3">
-<img src="{{ "/img/115.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/115.png" | relative_url }}" class="img-fluid" alt="SIAO 115" />
 </div>
 </div>
 </div>
@@ -23,7 +23,7 @@ d’hébergement ou de de logement</p>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/siao-52.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/siao-52.jpg" | relative_url }}" class="img-fluid" alt="illustration SIAO 52" />
 </div>
 
 <div class="col-8 p-5">
@@ -71,7 +71,7 @@ Un travailleur social 115 écoute et évalue l‘urgence de la situation. Il pou
 
 Si une réponse immédiate d’hébergement d’urgence ne peut être apportée, le travailleur social 115 oriente vers le dispositif insertion du SIAO.
 
-<img src="{{ "/img/dispositif-urgence-w700.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/dispositif-urgence-w700.jpg" | relative_url }}" class="img-fluid" alt="description dispositif d'urgence" />
 
 </div>
 </div>
@@ -86,7 +86,7 @@ Le dispositif d'insertion
 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordion1">
 <div class="accordion-body">
 
-<img src="{{ "/img/dispositif-insertion-w700.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/dispositif-insertion-w700.jpg" | relative_url }}" class="img-fluid" alt="image description dispositif insertion" />
 
 ### Demande et évaluation sociale
 
@@ -158,9 +158,9 @@ Les structures d'hébergement et de logement adapté
 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordion1">
 <div class="accordion-body">
 
-<img src="{{ "/img/carte-structures-w700.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/carte-structures-w700.jpg" | relative_url }}" class="img-fluid" alt="carte des structures d'accueil d'urgence Haute-Marne" />
 
-<img src="{{ "/img/tableau-structures-w700.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/tableau-structures-w700.jpg" | relative_url }}" class="img-fluid" alt="Tableau capacités d'accueil des structures d'urgence en Haute-Marne/>
 
 
 </div>

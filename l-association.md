@@ -13,14 +13,14 @@ order: 1
 <p class="fs-3"><a href="{{ "/doc/brochure-la-passerelle-52.pdf" | relative_url }}" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
 </div>
 <div class="col-6 p-5 text-end">
-<img src="{{ "/img/logo-la-passerele.svg.png" | relative_url }}" />
+<img src="{{ "/img/logo-la-passerele.svg.png" | relative_url }}" alt="logo La Passerelle" />
 </div>
 </div>
 </div>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/association-1.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/association-1.jpg" | relative_url }}" class="img-fluid" alt="photos d'assemblées" />
 </div>
 
 <div class="col-8 p-5">
@@ -79,7 +79,7 @@ Une **équipe de bénévoles** : Plus de 25 bénévoles, au sein de l’accueil 
 </div>
 
 <div class="col-4 p-5">
-<img src="{{ "/img/association-2.jpg" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/association-2.jpg" | relative_url }}" class="img-fluid" alt="photo de l'équipe de la passerelle" />
 </div>
 
 </div>
@@ -120,37 +120,37 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 
 <div class="col-2">
 <a href="https://www.agglo-chaumont.fr/">
-<img src="{{ "/img/partenaires/agglo-chaumont.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/partenaires/agglo-chaumont.png" | relative_url }}" class="img-fluid" alt="Logo agglomération de Chaumont" />
 </a>
 </div>
 
 <div class="col-2">
 <a href="https://www.grand-est.ars.sante.fr/">
-<img src="{{ "/img/partenaires/ars.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/partenaires/ars.png" | relative_url }}" class="img-fluid" alt="logo ARS Grand Est" />
 </a>
 </div>
 
 <div class="col-2">
 <a href="https://agence-cohesion-territoires.gouv.fr/">
-<img src="{{ "/img/partenaires/CGET.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/partenaires/CGET.png" | relative_url }}" class="img-fluid" alt="logo CGET" />
 </a>
 </div>
 
 <div class="col-2">
 <a href="https://haute-marne.fr/fr/">
-<img src="{{ "/img/partenaires/conseil-departemental.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/partenaires/conseil-departemental.png" | relative_url }}" class="img-fluid" alt="logo Conseil départemental Haute-Marne" />
 </a>
 </div>
 
 <div class="col-2">
 <a href="https://www.haute-marne.gouv.fr/Services-de-l-Etat/Emploi-travail-solidarites-et-protection-des-populations/Direction-Departementale-de-l-Emploi-du-Travail-des-Solidarite-et-de-la-Protection-des-Population">
-<img src="{{ "/img/partenaires/DDTESPP.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/partenaires/DDTESPP.png" | relative_url }}" class="img-fluid" alt="logo DDTESPP" />
 </a>
 </div>
 
 <div class="col-2">
 <a href="http://www.ville-chaumont.fr/">
-<img src="{{ "/img/partenaires/ville-de-chaumont.png" | relative_url }}" class="img-fluid" />
+<img src="{{ "/img/partenaires/ville-de-chaumont.png" | relative_url }}" class="img-fluid" alt="logo Chaumont" />
 </a>
 </div>
 
