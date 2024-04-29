@@ -28,6 +28,9 @@
   --bs-btn-disabled-border-color: #6c757d;
 }
 
+.accordion-button{
+  font-size: 1.6rem;
+}
  
 blockquote{
   margin:30px auto;

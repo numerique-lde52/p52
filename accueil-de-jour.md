@@ -6,13 +6,13 @@ order: 2
 ---
 
 <div class="rounded-1 shadow bg-secondary">
-<div class="row row-cols-2">
-<div class="col-8 p-5">
+<div class="row row-cols-2 d-flex align-items-center">
+<div class="col-8 px-5">
 <h1 class="fw-bold text-white">L’accueil de jour</h1>
 <p class="fs-3">Accueillir, soutenir et accéder<br>
 à des services de 1ères nécessités</p>
 </div>
-<div class="col-4 p-5 text-end">
+<div class="col-4 px-5 text-end">
 <img src="{{ "/img/accueil-jour.png" | relative_url }}" class="img-fluid" />
 </div>
 </div>
@@ -110,6 +110,8 @@ de 8h30 à 12h en accès libre
 
 et de 13h30 à 17h sur rendez-vous
 
+&nbsp;
+
 </div>  
 </div> 
 
@@ -119,6 +121,7 @@ et de 13h30 à 17h sur rendez-vous
 ## Les objectifs ?
 
 C’est un lieu d’accueil, d’aide, d’échange et de proximité.
+
 Sa mission est d’accueillir sans discrimination et de permettre à chaque accueilli de rompre son isolement et de trouver une place dans la société.
 
 </div>  
@@ -130,6 +133,10 @@ Sa mission est d’accueillir sans discrimination et de permettre à chaque accu
 ## Le public cible ?
 
 Toute personne majeure en situation précaire et rencontrant des difficultés liées à l’hébergement/logement.
+
+&nbsp;
+
+&nbsp;
 
 </div>  
 </div>  

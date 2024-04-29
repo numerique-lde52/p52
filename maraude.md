@@ -5,43 +5,36 @@ description : La maraude consiste à aller à la rencontre des personnes sans do
 order: 3
 ---
 <div class="rounded-1 shadow bg-secondary">
-<div class="row row-cols-2">
-<div class="col-6 p-5">
+<div class="row row-cols-2 d-flex align-items-center">
+<div class="col-8 px-5">
 <h1 class="fw-bold text-white">La Maraude</h1>
 <p class="fs-3">Aller au devant<br>
 des personnes sans domicile</p>
 </div>
-<div class="col-6 p-3">
-<img src="{{ "/img/cypripedium-calceolus-400X400.jpg" | relative_url }}" />
+<div class="col-4 px-5 text-end">
+<img src="{{ "/img/maraude.png" | relative_url }}" class="img-fluid" />
 </div>
 </div>
 </div>
 
+
+<div class="row row-cols-2">
+<div class="col-4 p-5">
+<img src="{{ "/img/maraude-1.jpg" | relative_url }}" class="img-fluid" />
+</div>
+
+<div class="col-8 p-5">
 
 ## C’est quoi ?
 
 La maraude consiste à :
 
- - Aller à la rencontre des personnes sans domicile fixe dans la rue.
- - Discuter avec elles et créer un lien qui pourrait à terme permettre un accompagnement pour sortir la personne de la rue.
- - Transporter les personnes avec leur accord vers un abri en lien avec le 115.
+ - **Aller à la rencontre des personnes sans domicile** fixe dans la rue.
+ - **Discuter avec elles et créer un lien** qui pourrait à terme permettre un accompagnement pour sortir la personne de la rue.
+ - **Transporter les personnes avec leur accord** vers un abri en lien avec le 115.
 
-## Quand ?
-
-Durant la période hivernale,
-du 1er novembre au 31 mars,
-de 20h à 22h30.
-
-## Les objectifs ?
-
-Les maraudes consistent à prendre l’initiative
-de rencontrer les personnes vivant dans la rue
-ou dans tout autre lieu précaire
-(voiture, parking, hall immeuble).
-
-## Le public cible ?
-
-Toute personne sans abri.
+</div>
+</div>
 
 
 ## Témoignages
@@ -81,3 +74,50 @@ Témoignage de Nathalie, bénévole
 Témoignages de Sébastien, maraudeur et accueilli
 </figcaption>
 </figure>
+
+
+
+<div class="row g-4 p-3 my-5">
+
+<div class="col">
+<div class="p-3 bg-secondary rounded-3 shadow">
+
+## Quand ?
+
+Durant la période hivernale,
+
+du 1er novembre au 31 mars,
+
+de 20h à 22h30.
+
+</div>  
+</div> 
+
+<div class="col">
+<div class="p-3 rounded-3 shadow">
+
+## Les objectifs ?
+
+Les maraudes consistent à prendre l’initiative
+de rencontrer les personnes vivant dans la rue
+ou dans tout autre lieu précaire
+(voiture, parking, hall immeuble).
+
+</div>  
+</div>  
+
+<div class="col">
+<div class="p-3 bg-primary rounded-3 shadow">
+
+## Le public cible ?
+
+Toute personne sans abri.
+
+&nbsp;
+
+&nbsp;
+
+</div>  
+</div>  
+
+</div>
