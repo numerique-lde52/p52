@@ -121,9 +121,9 @@ Toutes les personnes accompagnées par l’association.
 </div>
 
 <div class="col-8 p-5">
-## Action « appartement jeune »
+## Action « appartement jeune » - IML
 
- - **Hébergement en logement Autonomes des 18-25 ans**
+ - **Logement Autonome d'un jeune de 18 à 25 ans**
  - **Durée de séjour** : de 3 mois à 6 mois
  - **Forme d’habitat** : Studio ou F1 autonome
 

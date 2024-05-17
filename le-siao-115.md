@@ -125,13 +125,14 @@ Les structures de 1er accueil
 
 ### Services de droit commun
 
- - CCAS de St Dizier , C’SAM Chaumont, CIAS Langres, Mission Locale
+ - CCAS de St Dizier , C’SAM Chaumont, CIAS Langres, CCAS Joinville, CCAS Nogent, Mission Locale
  - Circonscription d’action sociale St Dizier, Chaumont, Joinville, Langres
 
-### Service de veille sociale
+### Services de veille sociale
 
- - Accueil de jour la Passerelle
- - ispositif Aller Vers PHILL
+ - Accueil de jour la Passerelle Chaumont, 
+ - l'Accueil, la Croix Rouge et Relais52 LHSS St Dizier,
+ - Dispositif Aller Vers PHILL Langres
 
 ### Services spécialisées (prise en charge préalable de la personne avant une demande d’hébergement ou de logement adapté)
 
@@ -139,6 +140,7 @@ Les structures de 1er accueil
  - Service pénitentiaire : SPIP52 – milieu ouvert ou fermé
  - Services hospitaliers : CHHM, hôpital général de Chaumont-Langres, centre hospitalier Geneviève de Gaulle Anthonioz..
  - Structures d’accueil pour demandeurs d’asile : AATM, FTDA, ADOMA
+ - Bailleurs sociaux : Chaumont Habitat, Hamaris, OPH St Dizier et Foyer Remois
  - Autres services : Bois abbesse, Adasms … (liste non exhaustive)
  - Hors département : SIAO
 

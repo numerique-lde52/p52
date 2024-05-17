@@ -31,8 +31,9 @@ association loi 1901
 
 ___
 
-Les actions de la Passerelle visent à lutter activement au quotidien contre l’isolement social pour des publics majeurs, et à recréer des liens avec les acteurs sociaux, médicosociaux et institutionnels ainsi que la société civile par :
+Les actions de la Passerelle visent à lutter activement au quotidien contre l’isolement social pour des publics majeurs, et à recréer des liens avec les acteurs sociaux, médicosociaux et institutionnels ainsi que la société civile.
 
+<h1>Nos missions</h1>
 </div>
 </div>
 

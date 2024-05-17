@@ -13,7 +13,7 @@ order: 6
 52000 Chaumont<br>
 </p>
 <p class="fs-3">03.25.32.65.42<br>
-association@passerelle52.fr<br>
+association@lapasserelle52.fr<br>
 </p>
 <p class="fs-3">Du lundi au vendredi<br>
 de 8H30 à 17H<br>

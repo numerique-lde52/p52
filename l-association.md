@@ -72,7 +72,7 @@ En **2015**, cette expertise l’amène à assurer la gestion du Service Intégr
 
 Un **conseil d’administration** : Fort de ces 6 membres, il a pour mission de définir les orientations stratégiques de l’association. Il garantit la mise en œuvre du projet associatif. Il assure l’orientation et le suivi de la gestion administrative et financière.
 
-Une **équipe de professionnels** : Composée de 12 personnes, dont 7 d’intervenants sociaux diplômés, 2 intervenants santé, épaulés d’une direction et d’un pôle administratif, cette équipe œuvre ensemble pour mener à bien les missions de la Passerelle. Elle s’investit pour répondre aux besoins du public dans le respect de leur personne et leur intégrité.
+Une **équipe de professionnels** : Composée de 12 personnes, dont 7 d’intervenants sociaux diplômés, 3 intervenants santé, épaulés d’une direction et d’un pôle administratif, cette équipe œuvre ensemble pour mener à bien les missions de la Passerelle. Elle s’investit pour répondre aux besoins du public dans le respect de leur personne et leur intégrité.
 
 Une **équipe de bénévoles** : Plus de 25 bénévoles, au sein de l’accueil de jour et la maraude, œuvrent auprès de l’équipe de professionnels avec des objectifs communs. Chacun apporte à l’association ces compétences propres, son engagement et une volonté d’être au plus proche du public dans un esprit de bienveillance.
 
