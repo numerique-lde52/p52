@@ -11,6 +11,7 @@ order: 4
 <h1 class="fw-bold text-white">Accès ou maintien dans le logement</h1>
 <p class="fs-3">Accompagner les personnes vers un logement<br>
 qui leur soit adapté et les aider à s'y maintenir</p>
+
 </div>
 <div class="col-4 px-3">
 <img src="{{ "/img/logement.png" | relative_url }}" class="img-fluid" alt="logement" />

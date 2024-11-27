@@ -10,17 +10,17 @@ order: 1
 <div class="col-6 p-5">
 <h1 class="fw-bold text-white">La Passerelle</h1>
 <p class="fs-3">Une association, des hommes et des femmes</p>
-<p class="fs-3"><a href="{{ "/doc/brochure-la-passerelle-52.pdf" | relative_url }}" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
+<p class="fs-3"><a href="{{ '/doc/Pochette presentation complete.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
 </div>
 <div class="col-6 p-5 text-end">
-<img src="{{ "/img/logo-la-passerele.svg.png" | relative_url }}" alt="logo La Passerelle" />
+<img src="{{ '/img/logo-la-passerele.svg.png' | relative_url }}" alt="logo La Passerelle" />
 </div>
 </div>
 </div>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/association-1.jpg" | relative_url }}" class="img-fluid" alt="photos d'assemblées" />
+<img src="{{ '/img/association-1.jpg' | relative_url }}" class="img-fluid" alt="photos d'assemblées" />
 </div>
 
 <div class="col-8 p-5">
@@ -93,6 +93,12 @@ Une **équipe de bénévoles** : Plus de 25 bénévoles, au sein de l’accueil 
 un détour sur les années écoulées en chiffres et en constat pour nos activités
 
 <div class="col">
+<a href="{{ "/doc/rapport-activite-2023.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2023</a>
+</div>
+<div class="col">
+<a href="{{ "/doc/rapport-activite-2022.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2022</a>
+</div>
+<div class="col">
 <a href="{{ "/doc/rapport-activite-2021.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2021</a>
 </div>
 <div class="col">
@@ -119,37 +125,37 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 ## Nos partenaires financeurs
 
 <div class="col-2">
-<a href="https://www.agglo-chaumont.fr/">
+<a href="https://www.agglo-chaumont.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/agglo-chaumont.png" | relative_url }}" class="img-fluid" alt="Logo agglomération de Chaumont" />
 </a>
 </div>
 
 <div class="col-2">
-<a href="https://www.grand-est.ars.sante.fr/">
+<a href="https://www.grand-est.ars.sante.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/ars.png" | relative_url }}" class="img-fluid" alt="logo ARS Grand Est" />
 </a>
 </div>
 
 <div class="col-2">
-<a href="https://agence-cohesion-territoires.gouv.fr/">
+<a href="https://agence-cohesion-territoires.gouv.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/CGET.png" | relative_url }}" class="img-fluid" alt="logo CGET" />
 </a>
 </div>
 
 <div class="col-2">
-<a href="https://haute-marne.fr/fr/">
+<a href="https://haute-marne.fr/fr/" target="_blank" >
 <img src="{{ "/img/partenaires/conseil-departemental.png" | relative_url }}" class="img-fluid" alt="logo Conseil départemental Haute-Marne" />
 </a>
 </div>
 
 <div class="col-2">
-<a href="https://www.haute-marne.gouv.fr/Services-de-l-Etat/Emploi-travail-solidarites-et-protection-des-populations/Direction-Departementale-de-l-Emploi-du-Travail-des-Solidarite-et-de-la-Protection-des-Population">
+<a href="https://www.haute-marne.gouv.fr/Services-de-l-Etat/Emploi-travail-solidarites-et-protection-des-populations/Direction-Departementale-de-l-Emploi-du-Travail-des-Solidarite-et-de-la-Protection-des-Population" target="_blank" >
 <img src="{{ "/img/partenaires/DDTESPP.png" | relative_url }}" class="img-fluid" alt="logo DDTESPP" />
 </a>
 </div>
 
 <div class="col-2">
-<a href="http://www.ville-chaumont.fr/">
+<a href="http://www.ville-chaumont.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/ville-de-chaumont.png" | relative_url }}" class="img-fluid" alt="logo Chaumont" />
 </a>
 </div>

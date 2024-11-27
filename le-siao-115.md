@@ -12,10 +12,10 @@ order: 5
 Service Intégré de l’Accueil et de l’Orientation</h1>
 <p class="fs-3">Evaluer et orienter les personnes vers une solution<br>
 d’hébergement ou de de logement</p>
-<p class="fs-3"><a href="{{ "/doc/DossierdemandeSIAOHteMarneoctobre2018.pdf" | relative_url }}" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a></p>
+<p class="fs-3"><a href="{{ '/doc/Dossier SIAO.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a></p>
 </div>
 <div class="col-4 p-3">
-<img src="{{ "/img/115.png" | relative_url }}" class="img-fluid" alt="SIAO 115" />
+<img src="{{ '/img/115.png' | relative_url }}" class="img-fluid" alt="SIAO 115" />
 </div>
 </div>
 </div>
@@ -23,7 +23,7 @@ d’hébergement ou de de logement</p>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ "/img/siao-52.jpg" | relative_url }}" class="img-fluid" alt="illustration SIAO 52" />
+<img src="{{ '/img/siao-52.jpg' | relative_url }}" class="img-fluid" alt="illustration SIAO 52" />
 </div>
 
 <div class="col-8 p-5">
@@ -51,7 +51,7 @@ Les missions du SIAO-115
  - **Coordonner** : Le SIAO coordonne l’offre et la demande d’hébergement ou de logements accompagnés du département dans une logique de parcours. Il organise des commissions d’orientation, visant à étudier les demandes collégialement avec nos partenaires. Il permet une meilleure fluidité de la demande vers l’hébergement ou le logement.
  - **Réunir** : Il rassemble les partenaires pour échanger sur des informations relatives aux dispositifs d’accueil, d’hébergement et d’insertion du département ou au niveau national. Il aborde des thématiques générales communes relatives au public sollicitant le dispositif.
 
-<a href="{{ "/doc/Depliant-SIAO-115.pdf" | relative_url }}" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dépliant SIAO 115</a>
+<a href="{{ '/doc/Depliants SIAO-115 QR code.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dépliant SIAO 115</a>
 
 </div>
 </div>
@@ -71,7 +71,7 @@ Un travailleur social 115 écoute et évalue l‘urgence de la situation. Il pou
 
 Si une réponse immédiate d’hébergement d’urgence ne peut être apportée, le travailleur social 115 oriente vers le dispositif insertion du SIAO.
 
-<img src="{{ "/img/dispositif-urgence-w700.jpg" | relative_url }}" class="img-fluid" alt="description dispositif d'urgence" />
+<img src="{{ '/img/dispositif-urgence-w700.jpg' | relative_url }}" class="img-fluid" alt="description dispositif d'urgence" />
 
 </div>
 </div>
@@ -86,7 +86,7 @@ Le dispositif d'insertion
 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordion1">
 <div class="accordion-body">
 
-<img src="{{ "/img/dispositif-insertion-w700.jpg" | relative_url }}" class="img-fluid" alt="image description dispositif insertion" />
+<img src="{{ '/img/dispositif-insertion-w700.jpg' | relative_url }}" class="img-fluid" alt="image description dispositif insertion" />
 
 ### Demande et évaluation sociale
 
@@ -104,8 +104,7 @@ L’ensemble des demandes (accordées et refusées) sont retenues à la commissi
  - De proposer une orientation en hébergement/logement adapté ou d’autres alternatives
  - D’échanger collectivement les situations complexes
 
-<p class="fs-3"><a href="{{ "/doc/FicheExplicativeCommentfaireunedemandeenlogementadapte3.pdf" | relative_url }}" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la Fiche logement adapté</a></p>
- 
+<p class="fs-3"><a href="{{ '/doc/2024 Demande de logement adapte - procedure admission.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de Demande d’admission en Logement adapté</a></p>
 
 </div>
 </div>
@@ -160,20 +159,18 @@ Les structures d'hébergement et de logement adapté
 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordion1">
 <div class="accordion-body">
 
-<img src="{{ "/img/carte-structures-w700.jpg" | relative_url }}" class="img-fluid" alt="carte des structures d'accueil d'urgence Haute-Marne" />
+<img src="{{ '/img/carte-structures-w700.jpg' | relative_url }}" class="img-fluid" alt="carte des structures d'accueil d'urgence Haute-Marne" />
 
-<img src="{{ "/img/tableau-structures-w700.jpg" | relative_url }}" class="img-fluid" alt="Tableau capacités d'accueil des structures d'urgence en Haute-Marne/>
-
-
-</div>
-</div>
-</div>
-</div>
+<img src="{{ '/img/tableau-structures-w700.jpg' | relative_url }}" class="img-fluid" alt="Tableau capacités d'accueil des structures d'urgence en Haute-Marne" />
 
 
 </div>
 </div>
+</div>
+</div>
 
+</div>
+</div>
 
 ## Témoignages
 
