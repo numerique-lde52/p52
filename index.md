@@ -44,7 +44,7 @@ Les actions de la Passerelle visent à lutter activement au quotidien contre l�
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
 
 <div class="col"><div class="p-3 bg-primary rounded-3 shadow">
-<img src="{{ "/img/accueil-jour-200x189.png" | relative_url }}" />
+<p class="text-center"><img src="{{ "/img/accueil-jour-200x189.png" | relative_url }}" /></p>
 <h3 class="fs-3 fw-bold">L'accueil de jour</h3>
 <p>Accueillir, soutenir et proposer des services de 1ères nécessités</p>
 <a href="{{ "/accueil-de-jour/" | relative_url }}" class="btn btn-primary btn-lg">En savoir plus ...</a>
@@ -52,21 +52,21 @@ Les actions de la Passerelle visent à lutter activement au quotidien contre l�
 </div></div>
 
 <div class="col"><div class="p-3 rounded-3 shadow">
-<img src="{{ "/img/maraude-200x189.png" | relative_url }}" />
+<p class="text-center"><img src="{{ "/img/maraude-200x189.png" | relative_url }}" /></p>
 <h3 class="fs-3 fw-bold">La maraude</h3>
 <p>Aller au devant des personnes sans domicile</p>
 <a href="{{ "/maraude/" | relative_url }}" class="btn btn-primary btn-lg">En savoir plus ...</a>
 </div></div>
 
 <div class="col"><div class="p-3 bg-secondary rounded-3 shadow">
-<img src="{{ "/img/logement-200x189.png" | relative_url }}" />
+<p class="text-center"><img src="{{ "/img/logement-sante-200x189.png" | relative_url }}" /></p>
 <h3 class="fs-3 fw-bold">Logement & Santé & Citoyenneté</h3>
 <p>Construire un parcours vers un habitat adapté et une vie au sein de la communauté</p>
 <a href="{{ "/acces-et-maintien-au-logement/" | relative_url }}" class="btn btn-primary btn-lg">En savoir plus ...</a>
 </div></div>
 
 <div class="col"><div class="p-3 rounded-3 shadow">
-<img src="{{ "/img/115-2-200x189.png" | relative_url }}" />
+<p class="text-center"><img src="{{ "/img/115-2-200x189.png" | relative_url }}" /></p>
 <h3 class="fs-3 fw-bold">SIAO – 115 - Service Intégré de l’Accueil et de l’Orientation</h3>
 <p>Evaluer, orienter les personnes et Coordonner les acteurs </p>
 <a href="{{ "/siao-115/" | relative_url }}" class="btn btn-primary btn-lg">En savoir plus ...</a>
