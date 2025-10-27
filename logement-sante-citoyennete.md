@@ -93,7 +93,7 @@ Ainsi que les professionnels de la Résidence accueil
 </div>
 
 <div class="col-4 p-5">
-<img src="{{ "/img/appart-jeune.jpg" | relative_url }}" class="img-fluid" alt="photos d'appartements" />
+<img src="{{ "/img/soutien-psy.jpg" | relative_url }}" class="img-fluid" alt="photos d'appartements" />
 </div>
 </div>
 
