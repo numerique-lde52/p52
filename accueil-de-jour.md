@@ -44,9 +44,11 @@ Le public peut bénéficier de services de première nécessité :
 
 ## Mais aussi, c’est un lieu :
 
+
   - **de rencontres sociales et d’informations** : entre pairs, par le biais de l’équipe de travailleurs sociaux et les bénévoles.
   - **de participation à des actions collectives** d’expression personnelle, de convivialité, d’accès à la culture, à la vie de l’association…
   - **d’accueil personnalisé** qui tient compte de la situation de la personne, de ses besoins et attentes. Les personnes bénéficient du temps nécessaire pour exprimer une demande, ou un projet de vie, à travers la construction d’une relation de confiance. Elles sont informées de leurs droits, orientées et accompagnées individuellement à travers leurs démarches de soins ou administratives vers les partenaires existants.
+  - **d’accompagnement global individualisé** à travers leurs démarches administratives, budgétaires, de soin, de vie quotidienne et d’emploi en complémentarité des partenaires existants dans une logique d’intégration sociale et en recréant des liens avec les dispositifs de droit commun.
 </div>
 
 <div class="col-4 p-5">

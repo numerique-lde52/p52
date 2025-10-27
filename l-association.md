@@ -10,8 +10,8 @@ order: 1
 <div class="col-6 p-5">
 <h1 class="fw-bold text-white">La Passerelle</h1>
 <p class="fs-3">Une association, des hommes et des femmes</p>
-<p class="fs-3"><a href="{{ '/doc/Pochette presentation complete.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
-</div>
+<!-- <p class="fs-3"><a href="{{ '/doc/Pochette presentation complete.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
+ --></div>
 <div class="col-6 p-5 text-end">
 <img src="{{ '/img/logo-la-passerele.svg.png' | relative_url }}" alt="logo La Passerelle" />
 </div>
@@ -55,6 +55,10 @@ Forte de son expérience auprès des personnes en situation d’exclusion et de 
 
 En **2015**, cette expertise l’amène à assurer la gestion du Service Intégré d’Accueil et d’Orientation (SIAO) et a intégré la mission du 115 en 2018. Ce service lui apporte un ancrage et une place d’acteur incontournable dans le domaine des dispositifs de lutte contre l’exclusion en Haute-Marne.
 
+Le numéro d’urgence, le 115, intègre fin **2017** le service SIAO avec une gestion 24h/24h – 7j/7 
+
+En **2022**, une instruction consacre le rôle central des SIAO, les érigeant en pierre angulaire du service public de la rue au logement. Dans ce contexte, l’équipe du SIAO se renforce progressivement afin de soutenir les missions de suivi de parcours, de coordination des acteurs, d’accompagnement psychologique et de développement de l’observatoire sociale départemental.
+
 </div>
 </div>
 </div>
@@ -70,9 +74,9 @@ En **2015**, cette expertise l’amène à assurer la gestion du Service Intégr
 
 ## Son Equipe
 
-Un **conseil d’administration** : Fort de ces 6 membres, il a pour mission de définir les orientations stratégiques de l’association. Il garantit la mise en œuvre du projet associatif. Il assure l’orientation et le suivi de la gestion administrative et financière.
+Un **conseil d’administration** : Fort de ces 7 membres, il a pour mission de définir les orientations stratégiques de l’association. Il garantit la mise en œuvre du projet associatif. Il assure l’orientation et le suivi de la gestion administrative et financière.
 
-Une **équipe de professionnels** : Composée de 12 personnes, dont 7 d’intervenants sociaux diplômés, 3 intervenants santé, épaulés d’une direction et d’un pôle administratif, cette équipe œuvre ensemble pour mener à bien les missions de la Passerelle. Elle s’investit pour répondre aux besoins du public dans le respect de leur personne et leur intégrité.
+Une **équipe de professionnels** : Composée de 15 personnes, dont 8 intervenants sociaux diplômés, 4 intervenants santé, 1 chargé d’observatoire. Epaulés d’une direction et d’une secrétaire de direction, cette équipe œuvre ensemble pour mener à bien les missions de la Passerelle. Elle s’investit pour répondre aux besoins du public dans le respect de leur personne et leur intégrité.
 
 Une **équipe de bénévoles** : Plus de 25 bénévoles, au sein de l’accueil de jour et la maraude, œuvrent auprès de l’équipe de professionnels avec des objectifs communs. Chacun apporte à l’association ces compétences propres, son engagement et une volonté d’être au plus proche du public dans un esprit de bienveillance.
 
@@ -93,6 +97,9 @@ Une **équipe de bénévoles** : Plus de 25 bénévoles, au sein de l’accueil 
 un détour sur les années écoulées en chiffres et en constat pour nos activités
 
 <div class="col">
+<a href="{{ "/doc/rapport-activite-2024.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2024</a>
+</div>
+<div class="col">
 <a href="{{ "/doc/rapport-activite-2023.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2023</a>
 </div>
 <div class="col">
@@ -112,9 +119,6 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 </div>
 <div class="col">
 <a href="{{ "/doc/rapport-activite-2017.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2017</a>
-</div>
-<div class="col">
-<a href="{{ "/doc/rapport-activite-2016.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2016</a>
 </div>
 
 </div>
@@ -156,7 +160,7 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 
 <div class="col-2">
 <a href="http://www.ville-chaumont.fr/" target="_blank" >
-<img src="{{ "/img/partenaires/ville-de-chaumont.png" | relative_url }}" class="img-fluid" alt="logo Chaumont" />
+<img src="{{ "/img/partenaires/Logotype-ville-de-Chaumont-DIN-A-vertical.svg" | relative_url }}" class="img-fluid" alt="logo Chaumont" />
 </a>
 </div>
 
