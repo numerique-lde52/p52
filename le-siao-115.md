@@ -13,8 +13,8 @@ Service Intégré de l’Accueil et de l’Orientation</h1>
 <p class="fs-3">Évaluer, orienter les personnes et Coordonner les acteurs</p>
 <p class="fs-3"><a href="{{ '/doc/Dossier-SIAO-Evaluation-approfondie-2025.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a></p>
 </div>
-<div class="col-4 p-3">
-<img src="{{ '/img/115.png' | relative_url }}" class="img-fluid" alt="SIAO 115" />
+<div class="col-4 p-3 text-bg-light">
+<img src="{{ '/img/logo-siao-115.png' | relative_url }}" class="img-fluid" alt="SIAO 115" />
 </div>
 </div>
 </div>
@@ -22,22 +22,14 @@ Service Intégré de l’Accueil et de l’Orientation</h1>
 
 <div class="row row-cols-2">
 <div class="col-4 p-5">
-<img src="{{ '/img/logo-siao-115.png' | relative_url }}" class="img-fluid" alt="illustration SIAO 52" />
+<img src="{{ '/img/siao-52.jpg' | relative_url }}" class="img-fluid" alt="illustration SIAO 52" />
 </div>
 
 <div class="col-8 p-5">
 
 Le **S.I.A.O** est une mise en réseau du dispositif d’accueil, d’hébergement, d’insertion et d’accès au logement des personnes sans abri, risquant de l’être ou mal logées. Il est un acteur à l’échelle départementale incontournable pour l’accès à l’hébergement ou le logement adapté et le logement. Ce dispositif est piloté par l’état.  
 
-<div class="accordion" id="accordion1">
-<div class="accordion-item">
-<h2 class="accordion-header">
-<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-Les missions du SIAO-115
-</button>
-</h2>
-<div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion1">
-<div class="accordion-body">
+### Les missions du SIAO-115
 
  - **Écouter** les personnes en besoin d’hébergement et/ou celles qui les côtoient via le 115 ; numéro d’appel gratuit qui fonctionne 365 jours par an et 24 heures sur 24.
  - **Évaluer** la situation de la personne et ses besoins
@@ -48,11 +40,7 @@ Les missions du SIAO-115
 
 <a href="{{ '/doc/SIAO-115 QR code.pdf 2025.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dépliant SIAO 115</a>
 
-</div>
-</div>
-</div>
-
-
+<div class="accordion" id="accordion1">
 <div class="accordion-item">
 <h2 class="accordion-header">
 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">

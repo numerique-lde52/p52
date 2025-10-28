@@ -84,11 +84,9 @@ Témoignages de Sébastien, maraudeur et accueilli
 
 ## Quand ?
 
-Durant la période hivernale,
+Durant la période hivernale, du 1er novembre au 31 mars, de 20h à 22h30.
 
-du 1er novembre au 31 mars, de 20h à 22h30.
-
-et durant les periodes de canicule en journée.
+Durant les periodes de canicule en journée sur signalement.
 </div>  
 </div> 
 

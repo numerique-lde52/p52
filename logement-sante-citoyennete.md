@@ -37,7 +37,7 @@ Le logement IML est une étape sécurisante, en proposant un accompagnement au s
 
 ### C’est pour qui ?
 
-Toute personnes avec des ressources et souhaitant d’être accompagnée dans la construction de son projet de logement.
+Toutes personnes avec des ressources et souhaitant être accompagnées dans la construction de son projet de logement.
 
 </div>
 </div>
@@ -68,7 +68,7 @@ C’est pour qui ?
 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordion2">
 <div class="accordion-body">
 
-Toute personnes hébergées, en logement ou accueillies sur les dispositifs suivants : 
+Toutes personnes hébergées, en logement ou accueillies sur les dispositifs suivants : 
 
  - A Langres 
    - PHILL : CHRS et hébergement FVV, Pension de famille, accueil de jour
@@ -126,34 +126,3 @@ Toutes les personnes accompagnées par l’association ou orientées par un part
 </div>
 
 </div>
-
-
-
-## Témoignages
-
-<figure>
-<blockquote class="blockquote">
-<p>La Passerelle m’aide pour mon logement tant pour l’administratif que pendant les rendez-vous. Je suis content de ne pas être seul pour faire mes démarches qui sont trop compliquées pour moi.</p>
-</blockquote>
-<figcaption class="blockquote-footer">
-Témoignage, d’un accueilli
-</figcaption>
-</figure>
-    
-<figure>
-<blockquote class="blockquote">
-<p>Ici, j’ai une aide pour l’administratif, ma santé et mon projet professionnel. Je trouve du soutien avec des personnes accueillantes et qui prennent toute ma situation en considération.</p>
-</blockquote>
-<figcaption class="blockquote-footer">
-Témoignage de Bao, accueilli
-</figcaption>
-</figure>
-
-<figure>
-<blockquote class="blockquote">
-<p>La Passerelle m’a permis de remettre ma vie en place, tout en règle, de reprendre un bon départ. L’accueil de jour est une très bonne chose. Il est ouvert souvent, avec une disponibilité au top. L’accueil de jour est comme une roue de secours parfois et elle coupe de la solitude.</p>
-</blockquote>
-<figcaption class="blockquote-footer">
-Témoignage de Sébastien, accueilli
-</figcaption>
-</figure>

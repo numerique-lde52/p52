@@ -34,7 +34,7 @@ Le public peut bénéficier de services de première nécessité :
   - **accès à l’alimentation** : coin cuisine, dépannage alimentaire.
   - **accès aux droits** : mise à disposition d’un poste informatique et accompagnement dans la réalisation des démarches administratives en ligne.
   - **accès aux soins** avec la présence d’une aide soignante (mardi matin) et d’une psycho-thérapeute (jeudi toute la journée)
-
+  - **d’accompagnement global individualisé** à travers leurs démarches administratives, budgétaires, de soin, de vie quotidienne et d’emploi en complémentarité des partenaires existants dans une logique d’intégration sociale et en recréant des liens avec les dispositifs de droit commun.
 </div>
 </div>
 
@@ -48,7 +48,7 @@ Le public peut bénéficier de services de première nécessité :
   - **de rencontres sociales et d’informations** : entre pairs, par le biais de l’équipe de travailleurs sociaux et les bénévoles.
   - **de participation à des actions collectives** d’expression personnelle, de convivialité, d’accès à la culture, à la vie de l’association…
   - **d’accueil personnalisé** qui tient compte de la situation de la personne, de ses besoins et attentes. Les personnes bénéficient du temps nécessaire pour exprimer une demande, ou un projet de vie, à travers la construction d’une relation de confiance. Elles sont informées de leurs droits, orientées et accompagnées individuellement à travers leurs démarches de soins ou administratives vers les partenaires existants.
-  - **d’accompagnement global individualisé** à travers leurs démarches administratives, budgétaires, de soin, de vie quotidienne et d’emploi en complémentarité des partenaires existants dans une logique d’intégration sociale et en recréant des liens avec les dispositifs de droit commun.
+
 </div>
 
 <div class="col-4 p-5">
@@ -61,15 +61,6 @@ Le public peut bénéficier de services de première nécessité :
 
 
 ## Témoignages
-
-<figure>
-<blockquote class="blockquote">
-<p>Je connais l’association depuis le début. J’aime la rencontre, et je suis à l’aise avec le public du fait de mon précédent métier en milieu hospitalier. Je soutiens l’équipe salariée de l’accueil de jour et donne quelque chose gratuitement. Je ne suis pas là pour questionner les personnes qui sont accueillies mais simplement pour être à leur écoute et être à côté d’eux.</p>
-</blockquote>
-<figcaption class="blockquote-footer">
-Témoignage d’Odile, bénévole et présidente
-</figcaption>
-</figure>
 
 <figure>
 <blockquote class="blockquote">
@@ -91,10 +82,28 @@ Témoignage de Laurent, accueilli
 
 <figure>
 <blockquote class="blockquote">
-<p>Je me plais bien et me sens bien avec les salariés. Je viens tous les matins depuis longtemps et je peux prendre ma boisson chaude. Je viens rompre ma solitude car j’ai été isolée par le passé.</p>
+<p>La Passerelle m’aide pour mon logement tant pour l’administratif que pendant les rendez-vous. Je suis content de ne pas être seul pour faire mes démarches qui sont trop compliquées pour moi.</p>
 </blockquote>
 <figcaption class="blockquote-footer">
-Témoignages de Michèle, accueillie
+Témoignage, d’un accueilli
+</figcaption>
+</figure>
+    
+<figure>
+<blockquote class="blockquote">
+<p>Ici, j’ai une aide pour l’administratif, ma santé et mon projet professionnel. Je trouve du soutien avec des personnes accueillantes et qui prennent toutes ma situation en considération.</p>
+</blockquote>
+<figcaption class="blockquote-footer">
+Témoignage de Bao, accueilli
+</figcaption>
+</figure>
+
+<figure>
+<blockquote class="blockquote">
+<p>La Passerelle m’a permis de remettre ma vie en place, tout en règle, de reprendre un bon départ. L’accueil de jour est une très bonne chose. Il est ouvert souvent, avec une disponibilité au top. L’accueil de jour est comme une roue de secours parfois et elle coupe de la solitude.</p>
+</blockquote>
+<figcaption class="blockquote-footer">
+Témoignage de Sébastien, accueilli
 </figcaption>
 </figure>
 
@@ -108,9 +117,9 @@ Témoignages de Michèle, accueillie
 
 du lundi au vendredi
 
-de 8h30 à 12h en accès libre
+de 8h30 à 12h et de 13h30 à 17h
 
-et de 13h30 à 17h sur rendez-vous
+en accès libre
 
 &nbsp;
 
