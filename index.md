@@ -2,9 +2,12 @@
 
 ---
 
+
 <div class="py-5 rounded-1 shadow-lg" style="background-image: url('{{ "/img/header-accueil-1200-v2.jpg" | relative_url }}'); background-size: cover;">
 <div class="row g-5 py-5">
-<div class="col-10 col-sm-1 col-lg-7"></div>
+<div class="col-10 col-sm-1 col-lg-7">
+
+</div>
 <div class="col-sm-8 col-lg-4 p-4 text-light">
 <h1 class="lh-1 mb-3">ENTR’</h1>
 <p class="fs-3 text-center">[ Hébergement / Logement ]</p>
@@ -60,9 +63,9 @@ Les actions de la Passerelle visent à lutter activement au quotidien contre l�
 
 <div class="col"><div class="p-3 bg-secondary rounded-3 shadow">
 <p class="text-center"><img src="{{ "/img/logement-sante-200x189.png" | relative_url }}" /></p>
-<h3 class="fs-3 fw-bold">Logement & Santé & Citoyenneté</h3>
-<p>Construire un parcours vers un habitat adapté et une vie au sein de la communauté</p>
-<a href="{{ "/acces-et-maintien-au-logement/" | relative_url }}" class="btn btn-primary btn-lg">En savoir plus ...</a>
+<h3 class="fs-3 fw-bold">Santé & Citoyenneté</h3>
+<p>Construire un parcours vers le bien-être et une vie au sein de la communauté.</p>
+<a href="{{ "/sante-citoyennete/" | relative_url }}" class="btn btn-primary btn-lg">En savoir plus ...</a>
 </div></div>
 
 <div class="col"><div class="p-3 rounded-3 shadow">

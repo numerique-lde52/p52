@@ -4785,7 +4785,7 @@ textarea.form-control-lg {
 .alert {
   --bs-alert-bg: transparent;
   --bs-alert-padding-x: 1rem;
-  --bs-alert-padding-y: 1rem;
+  --bs-alert-padding-y: 0.5rem;
   --bs-alert-margin-bottom: 1rem;
   --bs-alert-color: inherit;
   --bs-alert-border-color: transparent;
@@ -4876,6 +4876,8 @@ textarea.form-control-lg {
   --bs-alert-border-color: var(--bs-dark-border-subtle);
   --bs-alert-link-color: var(--bs-dark-text-emphasis);
 }
+
+.alert p{ margin: 0; }
 
 @keyframes progress-bar-stripes {
   0% {

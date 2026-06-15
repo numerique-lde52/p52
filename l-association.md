@@ -13,7 +13,7 @@ order: 1
 <!-- <p class="fs-3"><a href="{{ '/doc/Pochette presentation complete.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la plaquette de présentation</a></p>
  --></div>
 <div class="col-6 p-5 text-end">
-<img src="{{ '/img/logo-la-passerele.svg.png' | relative_url }}" alt="logo La Passerelle" />
+<img src="{{ '/img/logo-la-passerele.svg.png' | relative_url }}" alt="logo La Passerelle" class="img-fluid" />
 </div>
 </div>
 </div>
@@ -126,41 +126,53 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 
 <div class="row p-3 my-5 rounded-3 shadow border border-3">
 
+{% assign logo_container_size = "col-3" %}
+
+<style>
+.logo_container img{ max-height: 100px; }
+</style>
+
 ## Nos partenaires financeurs
 
-<div class="col-2">
+<div class="logo_container {{ logo_container_size }}">
 <a href="https://www.agglo-chaumont.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/agglo-chaumont.png" | relative_url }}" class="img-fluid" alt="Logo agglomération de Chaumont" />
 </a>
 </div>
 
-<div class="col-2">
+<div class="logo_container {{ logo_container_size }}">
 <a href="https://www.grand-est.ars.sante.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/ars.png" | relative_url }}" class="img-fluid" alt="logo ARS Grand Est" />
 </a>
 </div>
 
-<div class="col-2">
+<div class="logo_container {{ logo_container_size }}">
 <a href="https://agence-cohesion-territoires.gouv.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/CGET.png" | relative_url }}" class="img-fluid" alt="logo CGET" />
 </a>
 </div>
 
-<div class="col-2">
+<div class="logo_container {{ logo_container_size }}">
 <a href="https://haute-marne.fr/fr/" target="_blank" >
 <img src="{{ "/img/partenaires/conseil-departemental.png" | relative_url }}" class="img-fluid" alt="logo Conseil départemental Haute-Marne" />
 </a>
 </div>
 
-<div class="col-2">
+<div class="logo_container {{ logo_container_size }}">
 <a href="https://www.haute-marne.gouv.fr/Services-de-l-Etat/Emploi-travail-solidarites-et-protection-des-populations/Direction-Departementale-de-l-Emploi-du-Travail-des-Solidarite-et-de-la-Protection-des-Population" target="_blank" >
 <img src="{{ "/img/partenaires/DDTESPP.png" | relative_url }}" class="img-fluid" alt="logo DDTESPP" />
 </a>
 </div>
 
-<div class="col-2">
+<div class="logo_container {{ logo_container_size }}">
 <a href="http://www.ville-chaumont.fr/" target="_blank" >
 <img src="{{ "/img/partenaires/Logotype-ville-de-Chaumont-DIN-A-vertical.svg" | relative_url }}" class="img-fluid" alt="logo Chaumont" />
+</a>
+</div>
+
+<div class="logo_container {{ logo_container_size }}">
+<a href="https://pays-chaumont.com/" target="_blank" >
+<img src="{{ "/img/partenaires/LOGO_CHAUMONT_COULEUR_BAT-1.png" | relative_url }}" class="img-fluid" alt="logo Pays de Chaumont" />
 </a>
 </div>
 

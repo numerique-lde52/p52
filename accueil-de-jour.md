@@ -33,7 +33,7 @@ Le public peut bénéficier de services de première nécessité :
   - **accès à l’hygiène** : dépannage vestimentaire, prise de douche, lavage du linge, mise à disposition de consigne pour stocker ces affaires.
   - **accès à l’alimentation** : coin cuisine, dépannage alimentaire.
   - **accès aux droits** : mise à disposition d’un poste informatique et accompagnement dans la réalisation des démarches administratives en ligne.
-  - **accès aux soins** avec la présence d’une aide soignante (mardi matin) et d’une psycho-thérapeute (jeudi toute la journée)
+  - **accès aux soins** avec la présence d’une infirmère (mardi matin) et d’une psycho-thérapeute (jeudi toute la journée)
   - **d’accompagnement global individualisé** à travers leurs démarches administratives, budgétaires, de soin, de vie quotidienne et d’emploi en complémentarité des partenaires existants dans une logique d’intégration sociale et en recréant des liens avec les dispositifs de droit commun.
 </div>
 </div>

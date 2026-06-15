@@ -145,6 +145,11 @@ Partenaires Principaux
 </div>
 </div>
 
+## Lettre d'information
+
+<a href="https://www.calameo.com/books/0082015304ba1ec61ef84" target="_blank">Newsletter SIAO 52 - 1er Trimestre 2026</a>
+
+
 ## Témoignages
 
 <figure>
@@ -155,7 +160,6 @@ Partenaires Principaux
 Témoignage d’un professionnel
 </figcaption>
 </figure>
-
 
 
 <div class="row g-4 p-3 my-5">
