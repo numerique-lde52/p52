@@ -88,24 +88,28 @@ Une **équipe de bénévoles** : Plus de 25 bénévoles, au sein de l’accueil 
 
 </div>
 
-
-
 <div class="row p-3 rounded-3 shadow border border-3 bg-warning-subtle">
 
 ## Les rapports d'activité
 
 un détour sur les années écoulées en chiffres et en constat pour nos activités
 
-<div class="col">
-<a href="{{ "/doc/rapport-activite-2024.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2024</a>
-</div>
-<div class="col">
-<a href="{{ "/doc/rapport-activite-2023.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2023</a>
-</div>
-<div class="col">
-<a href="{{ "/doc/rapport-activite-2022.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2022</a>
-</div>
-<div class="col">
+
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><a href="https://www.calameo.com/books/00820153007a2fc37a3b7" target="_blank">Rapport d&#39;activité La Passerelle 2025</a></li>
+  <li class="list-group-item"><a href="https://www.calameo.com/books/008201530e91431f2fd2f" target="_blank">Rapport d&#39;activité - Accueil de Jour - 2025</a></li>
+  <li class="list-group-item"><a href="https://www.calameo.com/books/008201530c07490c7267a" target="_blank">Rapport d&#39;activité - En Mouvement Ensemble Pour Nos Quartiers - 2025</a></li>
+  <li class="list-group-item"><a href="https://www.calameo.com/books/0082015308f307bde70c9" target="_blank">Rapport d&#39;activité - IML - 2025</a></li>
+  <li class="list-group-item"><a href="https://www.calameo.com/books/008201530786214a2bb77" target="_blank">Rapport d&#39;activité - SIAO - 2025</a></li>
+  <li class="list-group-item"><a href="https://www.calameo.com/books/0082015300986a919b15c" target="_blank">Rapport d&#39;activité - Veille Sociale - 2025</a></li>
+  <li class="list-group-item"><a href="https://www.calameo.com/books/0082015308cfac031530b" target="_blank">Rapport d&#39;activité - Santé - 2025</a></li>
+
+  <li class="list-group-item"><a href="{{ "/doc/rapport-activite-2024.pdf" | relative_url }}" target="_blank">Rapport d&#39;activité La Passerelle 2024</a></li>
+  <li class="list-group-item"><a href="{{ "/doc/rapport-activite-2023.pdf" | relative_url }}" target="_blank">Rapport d&#39;activité La Passerelle 2023</a></li>
+  <li class="list-group-item"><a href="{{ "/doc/rapport-activite-2022.pdf" | relative_url }}" target="_blank">Rapport d&#39;activité La Passerelle 2022</a></li>
+</ul>
+
+<!-- <div class="col">
 <a href="{{ "/doc/rapport-activite-2021.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2021</a>
 </div>
 <div class="col">
@@ -119,12 +123,12 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 </div>
 <div class="col">
 <a href="{{ "/doc/rapport-activite-2017.pdf" | relative_url }}" target="_blank" class="btn btn-outline-success">année 2017</a>
-</div>
+</div> -->
 
 </div>
 
 
-<div class="row p-3 my-5 rounded-3 shadow border border-3">
+<div class="row p-3 my-5 rounded-3 shadow border border-3 text-center">
 
 {% assign logo_container_size = "col-3" %}
 
@@ -176,6 +180,11 @@ un détour sur les années écoulées en chiffres et en constat pour nos activit
 </a>
 </div>
 
+<div class="logo_container {{ logo_container_size }} ">
+<a href="https://www.harmonie-mutuelle.fr/" target="_blank" >
+<img src="{{ "/img/partenaires/Logo_Harmonie_Mutuelle.svg" | relative_url }}" class="img-fluid" alt="logo Harmonie Mutuelle" />
+</a>
+</div>
 
 
 </div>
