@@ -11,7 +11,8 @@ order: 5
 <h1 class="fw-bold text-white">SIAO – 115<br>
 Service Intégré de l’Accueil et de l’Orientation</h1>
 <p class="fs-3">Évaluer, orienter les personnes et Coordonner les acteurs</p>
-<p class="fs-3"><a href="{{ '/doc/Dossier-SIAO-Evaluation-approfondie-2025.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a></p>
+<p class="fs-3"><a href="{{ '/doc/FORM-2026-DossierDemandeSIAO.docx' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a></p>
+<p class="fs-3"><a href="{{ '/doc/FORM-2026-DossierDemandeSIAO-annexe.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger l'annexe au dossier de demande SIAO</a></p>
 </div>
 <div class="col-4 p-3 text-bg-light">
 <img src="{{ '/img/logo-siao-115.png' | relative_url }}" class="img-fluid" alt="SIAO 115" />
@@ -50,7 +51,7 @@ Le 115
 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordion1">
 <div class="accordion-body">
 
-Le 115 est un numéro d’appel gratuit qui fonctionne 365 jours par an et 24 heures sur 24. A travers une écoute active, Les intervenant(e)s SIAO-115 évaluent les besoins des personnes, l’urgence de la situation, les informent des dispositifs à leur disposition (accès aux soins de première nécessité, accès aux droits, notamment celui d’être suivi par un travailleur social), et les orientent une réponse adaptée à la demande de la personne ou du ménage concernant l’orientation vers les services compétents, ou une solution de mise à l’abri. Le 115 recueille également les signalements de particuliers, pour lesquels une intervention de rue peut être déclenchée.
+Le 115 est un numéro d’appel gratuit qui fonctionne 365 jours par an et 24 heures sur 24. A travers une écoute active, Les intervenant(e)s SIAO-115 évaluent les besoins des personnes, l’urgence de la situation, les informent des dispositifs existants (accès aux soins de première nécessité, accès aux droits, notamment celui d’être suivi par un travailleur social), et les orientent une réponse adaptée à la demande de la personne ou du ménage concernant l’orientation vers les services compétents, ou une solution de mise à l’abri. Le 115 recueille également les signalements de particuliers, pour lesquels une intervention de rue peut être déclenchée.
 
 Si une réponse immédiate ne peut pas être apportée, le 115 oriente vers un dispositif de veille sociale ou un partenaire du SIAO qui pourra rencontrer la personne en demande (structures de 1er accueil et de veille sociale).
 
@@ -80,6 +81,7 @@ Les structures de 1er accueil (Prescripteurs)
  - Accueil de jour et Maraude  de la Passerelle Chaumont,
  - la Croix Rouge et Relais52 LHSS St Dizier,
  - Dispositif Aller Vers PHILL Langres
+ - Accueil de jour de Relais 52 Saint Dizier
 
 Le 115 est un maillon essentiel de l’accompagnement des personnes en situation de précarité. Il assure une collaboration étroite avec les acteurs du territoire, il contribue activement à construire des parcours d’insertion solides pour sortir durablement les ménages de la rue.
 
@@ -108,7 +110,10 @@ Il Identifie et mobilise les leviers pour l’accès au logement social ou adapt
 
 <a href="{{ '/doc/CARTE dispositif AHI 2025.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger la Carte des dispositifs AHI</a>
 
-<a href="{{ '/doc/Dossier-SIAO-Evaluation-approfondie-2025.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a>
+<a href="{{ '/doc/FORM-2026-DossierDemandeSIAO.docx' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger le dossier de demande SIAO</a>
+
+<a href="{{ '/doc/FORM-2026-DossierDemandeSIAO-annexe.pdf' | relative_url }}" target="_blank" class="btn btn-info btn-md px-4 me-sm-3 fw-bold">Télécharger l'annexe au dossier de demande SIAO</a>
+
 
 **Coordonne les acteurs de la veille sociale**
 Il Identifie les besoins des personnes à la rue en lien avec les acteurs locaux et anime le réseau partenarial en 1er ligne auprès du public sans domicile.
@@ -147,7 +152,9 @@ Partenaires Principaux
 
 ## Lettre d'information
 
-<a href="https://www.calameo.com/books/0082015304ba1ec61ef84" target="_blank">Newsletter SIAO 52 - 1er Trimestre 2026</a>
+<a href="https://www.calameo.com/books/0082015304ba1ec61ef84" target="_blank">Newsletter SIAO 52 - 1er semestre 2026</a>
+<br>
+<a href="https://www.calameo.com/read/008201530e18bc93ca039" target="_blank">Newsletter SIAO 52 - 2ème semestre 2026</a>
 
 
 ## Témoignages

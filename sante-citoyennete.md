@@ -76,7 +76,9 @@ Toutes personnes hébergées, en logement ou accueillies sur les dispositifs sui
    - RELAIS 52 : CHRS
    - Pension Famille les Pierres posées
    - Résidence sociale Jeune
-   - L’Accueil de jour La Passerelle 
+   - L’Accueil de jour La Passerelle
+   - Vestiaire Service
+   - Ateliers du Viaduc
 
 Ainsi que les professionnels de la Résidence accueil
 
@@ -109,7 +111,7 @@ Ainsi que les professionnels de la Résidence accueil
 Cette action, dans le cadre de la politique de ville, vise à :
  - **Aider le public à rompre la passivité** au moyen de démarches d’accompagnement global renforcé et individualisé dans une optique de retour ou d’accès à l’emploi en lien avec les partenaires .
  - **Sensibilisation citoyenne du public** identifié à l’égard de son environnement local dans la perceptive de son intégration sociale
- - **Proposer des activités (rémunérées ou non)** qui répondent aux critères d’engagement stipulés par les contrats entre les demandeurs d’emploi et les organismes professionnels chargé de leur accompagnement.
+ - **Proposer des activités (rémunérées ou non)** qui répondent aux critères d’engagement stipulés par les contrats entre les demandeurs d’emploi et les organismes professionnels chargés de leur accompagnement.
 
 ### C’est quoi ?
  - Un accompagnement socio-éducatif global qui vise à l’intégration sociale du public identifié au sein de son environnement privé (logement) et public (quartier, commune) ainsi qu’une reconnexion avec les organismes locaux du champ de l’insertion

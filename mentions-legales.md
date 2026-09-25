@@ -17,7 +17,7 @@ Responsable éditorial : Céline Perret
 
 Téléphone : 03.25.32.65.42
 
-Email : association@passerelle52.fr
+Email : association@lapasserelle52.fr
 
 ## Hébergement :
 
@@ -35,7 +35,7 @@ Toutefois, des erreurs ou omissions peuvent survenir. L’internaute devra donc 
 
 **Cookies** : Le site www.lapasserelle52.fr peut-être amené à vous demander l’acceptation des cookies pour des besoins de statistiques et d’affichage. Un cookie est une information déposée sur votre disque dur par le serveur du site que vous visitez. Il contient plusieurs données qui sont stockées sur votre ordinateur dans un simple fichier texte auquel un serveur accède pour lire et enregistrer des informations . Certaines parties de ce site ne peuvent être fonctionnelles sans l’acceptation de cookies.
 
-**Liens hypertextes** : Le site internet de peut offrir des liens vers d’autres sites internet ou d’autres ressources disponibles sur Internet. La Passerelle ne dispose d’aucun moyen pour contrôler les sites en connexion avec ses sites internet. La Passerelle ne répond pas de la disponibilité de tels sites et sources externes, ni ne la garantit. Elle ne peut être tenue pour responsable de tout dommage, de quelque nature que ce soit, résultant du contenu de ces sites ou sources externes, et notamment des informations, produits ou services qu’ils proposent, ou de tout usage qui peut être fait de ces éléments. Les risques liés à cette utilisation incombent pleinement à l’internaute, qui doit se conformer à leurs conditions d’utilisation.
+**Liens hypertextes** : Le site internet de La Passerelle peut offrir des liens vers d’autres sites internet ou d’autres ressources disponibles sur Internet. La Passerelle ne dispose d’aucun moyen pour contrôler les sites en connexion avec ses sites internet. La Passerelle ne répond pas de la disponibilité de tels sites et sources externes, ni ne la garantit. Elle ne peut être tenue pour responsable de tout dommage, de quelque nature que ce soit, résultant du contenu de ces sites ou sources externes, et notamment des informations, produits ou services qu’ils proposent, ou de tout usage qui peut être fait de ces éléments. Les risques liés à cette utilisation incombent pleinement à l’internaute, qui doit se conformer à leurs conditions d’utilisation.
 
 **Propriété intellectuelle** : Tout le contenu du présent site www.lapasserelle52.fr, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de l’association à l’exception des marques, logos ou contenus appartenant à d’autres sociétés partenaires ou auteurs.
 Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l’accord exprès par écrit de La Passerelle. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.
